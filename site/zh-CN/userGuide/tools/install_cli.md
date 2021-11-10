@@ -47,3 +47,4 @@ python -m pip install --editable .
 ```shell
 python -m pip install milvus_cli-<version>.tar.gz
 ```
+<br>
